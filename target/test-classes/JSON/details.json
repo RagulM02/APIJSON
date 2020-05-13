@@ -1,0 +1,22 @@
+{
+   "from":"covi",
+   "to":"madurai",
+   "tripType":"RoundTrip",
+   "fromDate":"10-7-2020",
+   "toDate":"22-7-2020",
+   "flightNo":"spijet1",
+   "name":"Ragul.M",
+   "dob":"12-11-1996",
+   "streetName":"midilestret",
+   "cityName":"Thanjai",
+   "distrctName":"Thiruvarur",
+   "stateName":"Tamilnadu",
+   "mobileNo":8220792954,
+   "landlineNo":"123-5634567",
+   "personalEmail":"123456@gmail.com",
+   "officialEmail":"qwert@hexaware.in",
+   "cardName":"Visa",
+   "cardHolderName":"Ragul.M",
+   "cardNo":123456784567,
+   "cvvNo":568
+}
